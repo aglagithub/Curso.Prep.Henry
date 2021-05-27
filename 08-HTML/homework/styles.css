@@ -1,0 +1,41 @@
+h1 {
+  color: darkred;
+}
+img {
+  width: 400px;
+}
+#thirdDiv {
+  height: 600px;
+  width: 500px;
+  /* background-color: lightsalmon; */
+  background-color: rgba(255, 160, 122, 0.7);
+  padding: 50px;
+  border: 4px double saddlebrown;
+}
+
+#spanId {
+  font-size: 18px;
+  margin: 50px;
+}
+
+.divClass {
+  margin: 10px;
+}
+body {
+  /*https://www.w3schools.com/howto/howto_css_full_page.asp*/
+  background-image: url("https://images.pexels.com/photos/7688344/pexels-photo-7688344.jpeg?cs=srgb&dl=pexels-tansu-topuzo%C4%9Flu-7688344.jpg&fm=jpg");
+
+  /* Full height */
+  /* height: 100%; */
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  margin: auto;
+}
+div {
+  margin: auto;
+  text-align: center;
+}
